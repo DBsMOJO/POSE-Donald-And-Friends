@@ -28,4 +28,3 @@ Hmmm ... bist du ein Hund <J/N>N
 Dann vielleicht eine Maus? <J/N>J
 Grüß dich, M I C K E Y ! ! !
 '''
-
